@@ -9,7 +9,7 @@
           "name": "live",
           "urls": [
             // base64(clan://maomao/tv/live.txt) = Y2xhbjovL21hb21hby90di9saXZlLnR4dA==
-            "proxy://do=live&type=txt&ext=Y2xhbjovL21hb21hby90di9saXZlLnR4dA=="
+            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9sdXh1MjAwNi5naXRodWIuaW8vbHgvbWFvb2NmLmpzb24="
           ]
         }
       ]
