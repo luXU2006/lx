@@ -1,5 +1,5 @@
 {
-"spider":"https://luxu2006.github.io/lx/18.json",
+"spider":"https://luxu2006.github.io/lx/0668.json",
 "sites":[
 {"key":"*博天堂","name":"*博天堂","type":0,"api":"http://bttcj.com/inc/sapi.php","searchable":0,"quickSearch":0},
 {"key":"*523资源","name":"*523资源","type":1,"api":"https://caiji.523zyw.com/inc/apijson_vod.php","searchable":0,"quickSearch":0},
