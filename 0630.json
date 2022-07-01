@@ -2,7 +2,7 @@
 
 {
 "spider":"https://luxu2006.github.io/lx/0701apple.jar",
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRodWIuY29tL2x1WFUyMDA2L2x4L2Jsb2IvbWFpbi9iYy50eHQ="]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=Y2xhbjovL1RWQm94L3R2L2JjLnR4dA=="]}]}],
 
 
 "sites":[
