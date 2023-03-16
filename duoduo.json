@@ -1,8 +1,8 @@
 {
     "sites": [
         {
-            "key": "js¶¹°ê",
-            "name": "??¹«ÖÚºÅ:¶à¶àÓ¦ÓÃ»ã,·ÖÏí¸ü¶àÊµÓÃÈí¼ş×ÊÔ´??",
+            "key": "jsè±†ç“£",
+            "name": "??å…¬ä¼—å·:å¤šå¤šåº”ç”¨æ±‡,åˆ†äº«æ›´å¤šå®ç”¨è½¯ä»¶èµ„æº??",
             "type": 3,
             "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
             "searchable": 0,
@@ -11,8 +11,8 @@
             "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/douban.js"
         },
         {
-            "key": "t4èñÀĞ",
-            "name": "??¶¹°êÈÈ°ñ(±¸ÓÃ)",
+            "key": "t4æ¡‰ä½¬",
+            "name": "??è±†ç“£çƒ­æ¦œ(å¤‡ç”¨)",
             "type": 4,
             "api": "https://t4.secan.icu/vod?sites=all&ali_token=0c55c9f1c5cb4327ae2e51423276bb1e",
             "searchable": 0,
@@ -21,7 +21,7 @@
         },
         {
             "key": "csp_Alist1",
-            "name": "??AlistºÏ¼¯",
+            "name": "??Aliståˆé›†",
             "type": 3,
             "api": "csp_AList",
             "searchable": 1,
@@ -31,7 +31,7 @@
         },
         {
             "key": "csp_Bili",
-            "name": "???ßÙÁ¨ºÏ¼¯",
+            "name": "???å“”å“©åˆé›†",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 1,
@@ -40,8 +40,8 @@
             "ext": "https://yydsys.top/duo/Bili/bili.json"
         },
         {
-            "key": "¶ÌÊÓÆµ¾ÛºÏ",
-            "name": "??¶ÌÊÓÆµ¾ÛºÏ",
+            "key": "çŸ­è§†é¢‘èšåˆ",
+            "name": "??çŸ­è§†é¢‘èšåˆ",
             "type": 3,
             "api": "csp_XYQBiu",
             "searchable": 0,
@@ -51,7 +51,7 @@
         },
         {
             "key": "csp_Yj1211",
-            "name": "??Ö±²¥ºÏ¼¯",
+            "name": "??ç›´æ’­åˆé›†",
             "type": 3,
             "api": "csp_Yj1211",
             "searchable": 1,
@@ -59,8 +59,8 @@
             "filterable": 1
         },
         {
-            "key": "T4Ö±²¥×ªµã²¥",
-            "name": "???µçÊÓµã²¥",
+            "key": "T4ç›´æ’­è½¬ç‚¹æ’­",
+            "name": "???ç”µè§†ç‚¹æ’­",
             "type": 4,
             "api": "http://120.53.102.254/live?url=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9yYXkvdHZsaXZlLnR4dA",
             "searchable": 0,
@@ -69,7 +69,7 @@
         },
         {
             "key": "csp_YQKAPP",
-            "name": "???????????Ò»Æğ¿´TV",
+            "name": "???????????ä¸€èµ·çœ‹TV",
             "type": 3,
             "api": "csp_YQKAPP",
             "searchable": 1,
@@ -79,8 +79,8 @@
             "m3u8ads": "hd.youyhn.com"
         },
         {
-            "key": "mtv_°ÙÓ°ÊÓÆµ",
-            "name": "??°ÙÓ°ÊÓÆµ",
+            "key": "mtv_ç™¾å½±è§†é¢‘",
+            "name": "??ç™¾å½±è§†é¢‘",
             "type": 3,
             "api": "csp_MianHua",
             "searchable": 1,
@@ -91,7 +91,7 @@
         },
         {
             "key": "csp_Nmys",
-            "name": "?????Å©ÃñÓ°ÊÓ",
+            "name": "?????å†œæ°‘å½±è§†",
             "type": 3,
             "api": "csp_Nmys",
             "searchable": 1,
@@ -101,7 +101,7 @@
         },
         {
             "key": "csp_Paper",
-            "name": "??Ğ¡Ö½Ìõ¢Ù",
+            "name": "??å°çº¸æ¡â‘ ",
             "type": 3,
             "api": "csp_Paper",
             "searchable": 1,
@@ -110,8 +110,8 @@
             "ext": "https://yydsys.top/duo/ali/token.txt"
         },
         {
-            "key": "Ğ¡Ö½Ìõ2",
-            "name": "??Ğ¡Ö½Ìõ¢Ú",
+            "key": "å°çº¸æ¡2",
+            "name": "??å°çº¸æ¡â‘¡",
             "type": 3,
             "api": "csp_Gitcafe",
             "searchable": 1,
@@ -122,7 +122,7 @@
         },
         {
             "key": "Tutu_spider",
-            "name": "???Í¼Í¼Ó°ÊÓ",
+            "name": "???å›¾å›¾å½±è§†",
             "api": "csp_AppTT",
             "type": 3,
             "filterable": 1,
@@ -133,7 +133,7 @@
         },
         {
             "key": "csp_AppBuLei",
-            "name": "??²¼ÀÙÓ°Ôº",
+            "name": "??å¸ƒè•¾å½±é™¢",
             "type": 3,
             "api": "csp_BuLei",
             "searchable": 1,
@@ -142,18 +142,18 @@
             "ext": "https://www.bulei.cc"
         },
         {
-            "key": "csp_app_Ô´Í·",
-            "name": "??·ÊÃ¨Ó°Ôº",
+            "key": "csp_app_æºå¤´",
+            "name": "??è‚¥çŒ«å½±é™¢",
             "type": 1,
             "playerType": 2,
-            "api": "http://ÎÒÊÇ.·ÊÃ¨.love:63/api.php/provide/vod/",
+            "api": "http://æˆ‘æ˜¯.è‚¥çŒ«.love:63/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
         },
         {
-            "key": "csp_´óÃ÷",
-            "name": "??´óÃ÷Ó°ÊÓ",
+            "key": "csp_å¤§æ˜",
+            "name": "??å¤§æ˜å½±è§†",
             "type": 1,
             "api": "https://ys.md214.cn/api.php/provide/vod/",
             "playerType": 2,
@@ -161,28 +161,28 @@
             "quickSearch": 1,
             "filterable": 1,
             "categories": [
-                "´óÂ½¾ç",
-                "µçÓ°",
-                "Á¬Ğø¾ç",
-                "×ÛÒÕ",
-                "¶¯Âş",
-                "Ö±²¥"
+                "å¤§é™†å‰§",
+                "ç”µå½±",
+                "è¿ç»­å‰§",
+                "ç»¼è‰º",
+                "åŠ¨æ¼«",
+                "ç›´æ’­"
             ],
             "tsads": "iqiyi.hbuioo.com"
         },
         {
             "key": "csp_XBPQ_qiyou",
-            "name": "??ÆæÓÅÓ°Ôº",
+            "name": "??å¥‡ä¼˜å½±é™¢",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://yydsys.top/duo/json/ÆæÓÅÓ°Ôº.json"
+            "ext": "https://yydsys.top/duo/json/å¥‡ä¼˜å½±é™¢.json"
         },
         {
-            "key": "csp_xml_·Ç·²×ÊÔ´",
-            "name": "??·Ç·²×ÊÔ´",
+            "key": "csp_xml_éå‡¡èµ„æº",
+            "name": "??éå‡¡èµ„æº",
             "type": 1,
             "api": "http://www.ffzy.tv/api.php/provide/vod/",
             "playUrl": "https://ffzyplayer.com/?url=",
@@ -190,61 +190,61 @@
             "quickSearch": 1,
             "filterable": 1,
             "categories": [
-                "¶¯×÷Æ¬",
-                "Ï²¾çÆ¬",
-                "¿Æ»ÃÆ¬",
-                "¿Ö²ÀÆ¬",
-                "°®ÇéÆ¬",
-                "¾çÇéÆ¬",
-                "Õ½ÕùÆ¬",
-                "¼ÇÂ¼Æ¬",
-                "¹ú²ú¾ç",
-                "Å·ÃÀ¾ç",
-                "Ïã¸Û¾ç",
-                "º«¹ú¾ç",
-                "Ì¨Íå¾ç",
-                "ÈÕ±¾¾ç",
-                "º£Íâ¾ç",
-                "Ì©¹ú¾ç",
-                "¹ú²ú¶¯Âş",
-                "ÈÕº«¶¯Âş",
-                "Å·ÃÀ¶¯Âş",
-                "¸ÛÌ¨¶¯Âş",
-                "º£Íâ¶¯Âş",
-                "´óÂ½×ÛÒÕ",
-                "¸ÛÌ¨×ÛÒÕ",
-                "ÈÕº«×ÛÒÕ",
-                "Å·ÃÀ×ÛÒÕ"
+                "åŠ¨ä½œç‰‡",
+                "å–œå‰§ç‰‡",
+                "ç§‘å¹»ç‰‡",
+                "ææ€–ç‰‡",
+                "çˆ±æƒ…ç‰‡",
+                "å‰§æƒ…ç‰‡",
+                "æˆ˜äº‰ç‰‡",
+                "è®°å½•ç‰‡",
+                "å›½äº§å‰§",
+                "æ¬§ç¾å‰§",
+                "é¦™æ¸¯å‰§",
+                "éŸ©å›½å‰§",
+                "å°æ¹¾å‰§",
+                "æ—¥æœ¬å‰§",
+                "æµ·å¤–å‰§",
+                "æ³°å›½å‰§",
+                "å›½äº§åŠ¨æ¼«",
+                "æ—¥éŸ©åŠ¨æ¼«",
+                "æ¬§ç¾åŠ¨æ¼«",
+                "æ¸¯å°åŠ¨æ¼«",
+                "æµ·å¤–åŠ¨æ¼«",
+                "å¤§é™†ç»¼è‰º",
+                "æ¸¯å°ç»¼è‰º",
+                "æ—¥éŸ©ç»¼è‰º",
+                "æ¬§ç¾ç»¼è‰º"
             ]
         },
         {
-            "key": "Á¿×Ó×ÊÔ´",
-            "name": "??Á¿×Ó×ÊÔ´",
+            "key": "é‡å­èµ„æº",
+            "name": "??é‡å­èµ„æº",
             "type": 1,
             "api": "http://cj.lziapi.com/api.php/provide/vod/",
             "playUrl": "",
             "searchable": 1,
             "quickSearch": 1,
             "categories": [
-                "¹ú²ú¾ç",
-                "¹ú²ú¶¯Âş",
-                "Ì©¹ú¾ç",
-                "Ì¨Íå¾ç",
-                "Ïã¸Û¾ç",
-                "Å·ÃÀ¾ç",
-                "º«¹ú¾ç",
-                "ÈÕ±¾¾ç",
-                "¶¯Âş",
-                "ÌåÓı",
-                "¾çÇéÆ¬",
-                "¶¯×÷Æ¬",
-                "°®ÇéÆ¬",
-                "Ï²¾çÆ¬"
+                "å›½äº§å‰§",
+                "å›½äº§åŠ¨æ¼«",
+                "æ³°å›½å‰§",
+                "å°æ¹¾å‰§",
+                "é¦™æ¸¯å‰§",
+                "æ¬§ç¾å‰§",
+                "éŸ©å›½å‰§",
+                "æ—¥æœ¬å‰§",
+                "åŠ¨æ¼«",
+                "ä½“è‚²",
+                "å‰§æƒ…ç‰‡",
+                "åŠ¨ä½œç‰‡",
+                "çˆ±æƒ…ç‰‡",
+                "å–œå‰§ç‰‡"
             ]
         },
         {
             "key": "csp_Yht",
-            "name": "??ºÉÌÁÓ°Ôº",
+            "name": "??è·å¡˜å½±é™¢",
             "type": 3,
             "api": "csp_Yht",
             "searchable": 1,
@@ -254,7 +254,7 @@
         },
         {
             "key": "Upyunso",
-            "name": "???4KÔÆËÑ",
+            "name": "???4Käº‘æœ",
             "type": 3,
             "api": "csp_UpYun",
             "searchable": 1,
@@ -264,7 +264,7 @@
         },
         {
             "key": "Alips",
-            "name": "??4KÅÌËÑ",
+            "name": "??4Kç›˜æœ",
             "type": 3,
             "api": "csp_PanSou",
             "searchable": 1,
@@ -274,7 +274,7 @@
         },
         {
             "key": "Yisou",
-            "name": "??4KÒ×ËÑ",
+            "name": "??4Kæ˜“æœ",
             "type": 3,
             "api": "csp_YiSo",
             "searchable": 1,
@@ -284,7 +284,7 @@
         },
         {
             "key": "Zhaozy",
-            "name": "??4KÕÒ×ÊÔ´",
+            "name": "??4Kæ‰¾èµ„æº",
             "type": 3,
             "api": "csp_Zhaozy",
             "searchable": 1,
@@ -293,8 +293,8 @@
             "ext": "https://yydsys.top/duo/ali/token.txt$$$yingshi$$$abcd1234"
         },
         {
-            "key": "dr_³§³¤×ÊÔ´",
-            "name": "???³§³¤(JS)",
+            "key": "dr_å‚é•¿èµ„æº",
+            "name": "???å‚é•¿(JS)",
             "type": 3,
             "api": "https://yydsys.top/duo/js/libmain.js",
             "searchable": 0,
@@ -304,7 +304,7 @@
         },
         {
             "key": "csp_CZSPP",
-            "name": "???³§³¤(SP)",
+            "name": "???å‚é•¿(SP)",
             "type": 3,
             "api": "csp_Czsapp",
             "searchable": 1,
@@ -313,7 +313,7 @@
         },
         {
             "key": "csp_Lib",
-            "name": "??LibÓ°ÊÓ",
+            "name": "??Libå½±è§†",
             "type": 3,
             "api": "csp_Libvio",
             "searchable": 1,
@@ -344,7 +344,7 @@
         },
         {
             "key": "csp_DiDuan",
-            "name": "??µÍ¶Ë(SP)",
+            "name": "??ä½ç«¯(SP)",
             "type": 3,
             "api": "csp_Ddrk",
             "searchable": 1,
@@ -353,7 +353,7 @@
         },
         {
             "key": "drpy_js_ddys",
-            "name": "??µÍ¶Ë(JS)",
+            "name": "??ä½ç«¯(JS)",
             "type": 3,
             "api": "https://yydsys.top/duo/js/libmain.js",
             "searchable": 1,
@@ -362,18 +362,18 @@
             "ext": "https://yydsys.top/duo/js/ddys.js"
         },
         {
-            "key": "js_a8ÒôÀÖ",
-            "name": "??ÒôÀÖMTV",
+            "key": "js_a8éŸ³ä¹",
+            "name": "??éŸ³ä¹MTV",
             "type": 3,
             "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://yydsys.top/duo/js/a8ÒôÀÖ.js"
+            "ext": "https://yydsys.top/duo/js/a8éŸ³ä¹.js"
         },
         {
-            "key": "Ğ¡Æ»¹û",
-            "name": "??Ğ¡Æ»¹û",
+            "key": "å°è‹¹æœ",
+            "name": "??å°è‹¹æœ",
             "type": 3,
             "api": "csp_LiteApple",
             "searchable": 1,
@@ -381,8 +381,8 @@
             "filterable": 1
         },
         {
-            "key": "csp_spÁúÃÅ",
-            "name": "??ÁúÃÅÓ°ÊÓ",
+            "key": "csp_spé¾™é—¨",
+            "name": "??é¾™é—¨å½±è§†",
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
@@ -392,7 +392,7 @@
         },
         {
             "key": "Kuaikan",
-            "name": "??¿ì¿´Ó°ÊÓ",
+            "name": "??å¿«çœ‹å½±è§†",
             "type": 3,
             "api": "csp_Kuaikan",
             "searchable": 1,
@@ -401,7 +401,7 @@
         },
         {
             "key": "csp_AppMr",
-            "name": "??¶şÃ÷Ó°ÊÓ",
+            "name": "??äºŒæ˜å½±è§†",
             "type": 3,
             "api": "csp_AppMr",
             "searchable": 1,
@@ -409,8 +409,8 @@
             "filterable": 1
         },
         {
-            "key": "csp_XBPQ_ÀÖÖíÓ°ÊÓ",
-            "name": "??ÀÖÖíÓ°ÊÓ",
+            "key": "csp_XBPQ_ä¹çŒªå½±è§†",
+            "name": "??ä¹çŒªå½±è§†",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -419,18 +419,18 @@
             "ext": "https://yydsys.top/duo/json/lezhu.json"
         },
         {
-            "key": "js_´óÊ¦ĞÖ",
-            "name": "??Ê¦ĞÖÓ°ÊÓ",
+            "key": "js_å¤§å¸ˆå…„",
+            "name": "??å¸ˆå…„å½±è§†",
             "type": 3,
             "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://yydsys.top/duo/js/´óÊ¦ĞÖÓ°ÊÓ.js"
+            "ext": "https://yydsys.top/duo/js/å¤§å¸ˆå…„å½±è§†.js"
         },
         {
             "key": "csp_panghu",
-            "name": "??ÅÖ»¢Ó°ÊÓ",
+            "name": "??èƒ–è™å½±è§†",
             "type": 3,
             "api": "csp_Panghu",
             "searchable": 1,
@@ -439,7 +439,7 @@
         },
         {
             "key": "csp_Hlsp",
-            "name": "??ºÚÁÏÓ°ÊÓ",
+            "name": "??é»‘æ–™å½±è§†",
             "type": 3,
             "api": "csp_Hlsp",
             "searchable": 1,
@@ -448,44 +448,44 @@
             "ext": "https://yydsys.top/duo/json/hlsp.json"
         },
         {
-            "key": "csp_XBPQ_°®¿´Ó°ÊÓ",
-            "name": "??°®¿´Ó°ÊÓ",
+            "key": "csp_XBPQ_çˆ±çœ‹å½±è§†",
+            "name": "??çˆ±çœ‹å½±è§†",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://yydsys.top/duo/json/°®¿´Ó°ÊÓ.json"
+            "ext": "https://yydsys.top/duo/json/çˆ±çœ‹å½±è§†.json"
         },
         {
-            "key": "js_µçÓ°ÏÈÉú",
-            "name": "??µçÓ°ÏÈÉú",
+            "key": "js_ç”µå½±å…ˆç”Ÿ",
+            "name": "??ç”µå½±å…ˆç”Ÿ",
             "type": 3,
             "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://yydsys.top/duo/js/µçÓ°ÏÈÉú.js"
+            "ext": "https://yydsys.top/duo/js/ç”µå½±å…ˆç”Ÿ.js"
         },
         {
-            "key": "csp_XBPQ_·¹ÍÅ",
-            "name": "??·¹ÍÅÓ°ÊÓ",
+            "key": "csp_XBPQ_é¥­å›¢",
+            "name": "??é¥­å›¢å½±è§†",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://yydsys.top/duo/json/·¹ÍÅHD.json"
+            "ext": "https://yydsys.top/duo/json/é¥­å›¢HD.json"
         },
         {
             "key": "XBPQ_fant",
-            "name": "??·¹ÍÅÓ°Ôº",
+            "name": "??é¥­å›¢å½±é™¢",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://yydsys.top/duo/json/·¹ÍÅHD2.json"
+            "ext": "https://yydsys.top/duo/json/é¥­å›¢HD2.json"
         },
         {
             "key": "csp_biubiu_voflix",
@@ -499,7 +499,7 @@
         },
         {
             "key": "csp_Kunyu77",
-            "name": "??ÆßÆß[SP]",
+            "name": "??ä¸ƒä¸ƒ[SP]",
             "type": 3,
             "api": "csp_Kunyu77",
             "searchable": 1,
@@ -507,8 +507,8 @@
             "filterable": 1
         },
         {
-            "key": "drpy_js_¿áÔÆÆßÆß",
-            "name": "??ÆßÆß[JS]",
+            "key": "drpy_js_é…·äº‘ä¸ƒä¸ƒ",
+            "name": "??ä¸ƒä¸ƒ[JS]",
             "type": 3,
             "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
             "searchable": 1,
@@ -518,7 +518,7 @@
         },
         {
             "key": "360_spider",
-            "name": "??360Ó°ÊÓ",
+            "name": "??360å½±è§†",
             "type": 3,
             "api": "csp_SP360",
             "searchable": 1,
@@ -527,7 +527,7 @@
         },
         {
             "key": "SPQQ",
-            "name": "??Æó¶ì(¹Ù)",
+            "name": "??ä¼é¹…(å®˜)",
             "type": 3,
             "api": "csp_QQ",
             "searchable": 1,
@@ -535,8 +535,8 @@
             "filterable": 1
         },
         {
-            "key": "drpy_js_ÆæÒì",
-            "name": "??ÆæÒì(¹Ù)",
+            "key": "drpy_js_å¥‡å¼‚",
+            "name": "??å¥‡å¼‚(å®˜)",
             "type": 3,
             "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
             "searchable": 1,
@@ -546,7 +546,7 @@
         },
         {
             "key": "MGT",
-            "name": "??Ã¢Ã¢(¹Ù)",
+            "name": "??èŠ’èŠ’(å®˜)",
             "type": 3,
             "api": "csp_Mgtv",
             "searchable": 1,
@@ -555,40 +555,40 @@
         },
         {
             "key": "youku",
-            "name": "??ÓÍ¿â(¹Ù)",
+            "name": "??æ²¹åº“(å®˜)",
             "type": 0,
             "api": "https://www.zycaiji.net:7788/api.php/provide/vod/from/youku/at/xml/",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
             "categories": [
-                "×ÛÒÕ",
-                "¶¯Âş",
-                "¶¯×÷Æ¬",
-                "Ï²¾çÆ¬",
-                "°®ÇéÆ¬",
-                "¿Æ»ÃÆ¬",
-                "¿Ö²ÀÆ¬",
-                "¾çÇéÆ¬",
-                "Õ½ÕùÆ¬",
-                "¹ú²ú¾ç",
-                "¸ÛÌ¨¾ç",
-                "ÈÕº«¾ç",
-                "Å·ÃÀ¾ç",
-                "¾ªã¤Æ¬",
-                "·¸×ïÆ¬",
-                "Ã°ÏÕÆ¬",
-                "ĞüÒÉÆ¬",
-                "¶¯»­Æ¬",
-                "ÎäÏÀÆ¬",
-                "Ææ»ÃÆ¬",
-                "ÉÙ¶ù",
-                "ÆäËûÆ¬"
+                "ç»¼è‰º",
+                "åŠ¨æ¼«",
+                "åŠ¨ä½œç‰‡",
+                "å–œå‰§ç‰‡",
+                "çˆ±æƒ…ç‰‡",
+                "ç§‘å¹»ç‰‡",
+                "ææ€–ç‰‡",
+                "å‰§æƒ…ç‰‡",
+                "æˆ˜äº‰ç‰‡",
+                "å›½äº§å‰§",
+                "æ¸¯å°å‰§",
+                "æ—¥éŸ©å‰§",
+                "æ¬§ç¾å‰§",
+                "æƒŠæ‚šç‰‡",
+                "çŠ¯ç½ªç‰‡",
+                "å†’é™©ç‰‡",
+                "æ‚¬ç–‘ç‰‡",
+                "åŠ¨ç”»ç‰‡",
+                "æ­¦ä¾ ç‰‡",
+                "å¥‡å¹»ç‰‡",
+                "å°‘å„¿",
+                "å…¶ä»–ç‰‡"
             ]
         },
         {
-            "key": "drpy_js_²Ë¹·",
-            "name": "???²Ë¹·(¹Ù)",
+            "key": "drpy_js_èœç‹—",
+            "name": "???èœç‹—(å®˜)",
             "type": 3,
             "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
             "searchable": 1,
@@ -597,47 +597,47 @@
             "ext": "https://yydsys.top/duo/js/caigou.js"
         },
         {
-            "key": "zy_ĞÂÀË×ÊÔ´",
-            "name": "????ĞÂÀË×ÊÔ´",
+            "key": "zy_æ–°æµªèµ„æº",
+            "name": "????æ–°æµªèµ„æº",
             "type": 1,
             "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1,
             "categories": [
-                "¶¯Âş",
-                "×ÛÒÕ",
-                "¼ÍÂ¼Æ¬",
-                "¶¯×÷Æ¬",
-                "°®ÇéÆ¬",
-                "¿Æ»ÃÆ¬",
-                "Õ½ÕùÆ¬",
-                "¾çÇéÆ¬",
-                "¿Ö²ÀÆ¬",
-                "Ï²¾çÆ¬",
-                "´óÂ½¾ç",
-                "¸Û°Ä¾ç",
-                "Ì¨Íå¾ç",
-                "Å·ÃÀ¾ç",
-                "¶¯ÂşµçÓ°",
-                "º«¾ç",
-                "ÈÕ¾ç",
-                "Ì©¾ç",
-                "ÌåÓı"
+                "åŠ¨æ¼«",
+                "ç»¼è‰º",
+                "çºªå½•ç‰‡",
+                "åŠ¨ä½œç‰‡",
+                "çˆ±æƒ…ç‰‡",
+                "ç§‘å¹»ç‰‡",
+                "æˆ˜äº‰ç‰‡",
+                "å‰§æƒ…ç‰‡",
+                "ææ€–ç‰‡",
+                "å–œå‰§ç‰‡",
+                "å¤§é™†å‰§",
+                "æ¸¯æ¾³å‰§",
+                "å°æ¹¾å‰§",
+                "æ¬§ç¾å‰§",
+                "åŠ¨æ¼«ç”µå½±",
+                "éŸ©å‰§",
+                "æ—¥å‰§",
+                "æ³°å‰§",
+                "ä½“è‚²"
             ]
         },
         {
-            "key": "js_ÄªÔúÍÃ",
-            "name": "??ÄªÔúÍÃ",
+            "key": "js_è«æ‰å…”",
+            "name": "??è«æ‰å…”",
             "type": 3,
             "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://yydsys.top/duo/js/ÄªÔúÍÃ.js"
+            "ext": "https://yydsys.top/duo/js/è«æ‰å…”.js"
         },
         {
             "key": "csp_Xinsj",
-            "name": "??ÊÓ¾õÓ°Ôº",
+            "name": "??è§†è§‰å½±é™¢",
             "type": 3,
             "api": "csp_Xinsj",
             "searchable": 1,
@@ -647,7 +647,7 @@
         },
         {
             "key": "csp_Nkdy",
-            "name": "???ÄÍ¿´µçÓ°",
+            "name": "???è€çœ‹ç”µå½±",
             "type": 3,
             "api": "csp_Nkdy",
             "searchable": 1,
@@ -655,8 +655,8 @@
             "filterable": 1
         },
         {
-            "key": "csp_555µçÓ°",
-            "name": "??ÈıÎåµçÓ°",
+            "key": "csp_555ç”µå½±",
+            "name": "??ä¸‰äº”ç”µå½±",
             "type": 3,
             "api": "csp_Ys555",
             "searchable": 1,
@@ -665,18 +665,18 @@
             "ext": "https://www.555dyy1.com"
         },
         {
-            "key": "csp_XBPQ_ÎŞÃû",
-            "name": "??ÎŞÃûĞ¡Õ¾",
+            "key": "csp_XBPQ_æ— å",
+            "name": "??æ— åå°ç«™",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://yydsys.top/duo/json/ÎŞÃûĞ¡Õ¾.json"
+            "ext": "https://yydsys.top/duo/json/æ— åå°ç«™.json"
         },
         {
-            "key": "csp_xpath_¶À²¥¿â",
-            "name": "??¶À²¥¿â",
+            "key": "csp_xpath_ç‹¬æ’­åº“",
+            "name": "??ç‹¬æ’­åº“",
             "type": 3,
             "api": "csp_XPathMacFilter",
             "searchable": 1,
@@ -686,7 +686,7 @@
         },
         {
             "key": "py_cctv",
-            "name": "??°®ÑëÊÓ(PY)",
+            "name": "??çˆ±å¤®è§†(PY)",
             "type": 3,
             "api": "py_cctv",
             "searchable": 0,
@@ -695,18 +695,18 @@
             "ext": "https://yydsys.top/duo/json/cctv.py"
         },
         {
-            "key": "csp_XBPQ_Õæ²»¿¨",
-            "name": "??Õæ²»¿¨(XB)",
+            "key": "csp_XBPQ_çœŸä¸å¡",
+            "name": "??çœŸä¸å¡(XB)",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://yydsys.top/duo/json/Õæ²»¿¨.json"
+            "ext": "https://yydsys.top/duo/json/çœŸä¸å¡.json"
         },
         {
             "key": "csp_Smdyy",
-            "name": "??ÉñÂíÓ°Ôº",
+            "name": "??ç¥é©¬å½±é™¢",
             "type": 3,
             "api": "csp_Smdyy",
             "searchable": 1,
@@ -715,7 +715,7 @@
         },
         {
             "key": "csp_Ysgc",
-            "name": "???Ó°ÊÓ¹¤³§",
+            "name": "???å½±è§†å·¥å‚",
             "type": 3,
             "api": "csp_Ysgc",
             "searchable": 1,
@@ -724,8 +724,8 @@
             "ext": "https://www.ysgc.fun"
         },
         {
-            "key": "csp_biubiu_É§»ğµçÓ°",
-            "name": "??É§»ğµçÓ°",
+            "key": "csp_biubiu_éªšç«ç”µå½±",
+            "name": "??éªšç«ç”µå½±",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -735,7 +735,7 @@
         },
         {
             "key": "csp_Bd",
-            "name": "??ßÙàÖ(SP)",
+            "name": "??å“”å˜€(SP)",
             "type": 3,
             "api": "csp_Bdys01",
             "searchable": 1,
@@ -762,7 +762,7 @@
         },
         {
             "key": "csp_Btwtoo",
-            "name": "?Á½¸öBT",
+            "name": "?ä¸¤ä¸ªBT",
             "type": 3,
             "api": "csp_Bttwoo",
             "searchable": 1,
@@ -771,7 +771,7 @@
         },
         {
             "key": "csp_Anime1",
-            "name": "??¶¯ÂşÏµÁĞ",
+            "name": "??åŠ¨æ¼«ç³»åˆ—",
             "type": 3,
             "api": "csp_Anime1",
             "searchable": 1,
@@ -779,8 +779,8 @@
             "filterable": 1
         },
         {
-            "key": "jsÂ·ÂşÂş",
-            "name": "?????Â·ÂşÂş",
+            "key": "jsè·¯æ¼«æ¼«",
+            "name": "?????è·¯æ¼«æ¼«",
             "type": 3,
             "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
             "searchable": 0,
@@ -789,8 +789,8 @@
             "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/%E8%B7%AF%E6%BC%AB%E6%BC%AB.js"
         },
         {
-            "key": "È¥¿´¶¯Âş",
-            "name": "??È¥¿´¶¯Âş",
+            "key": "å»çœ‹åŠ¨æ¼«",
+            "name": "??å»çœ‹åŠ¨æ¼«",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -799,8 +799,8 @@
             "ext": "https://yydsys.top/duo/json/%E5%8E%BB%E7%9C%8B%E5%8A%A8%E6%BC%AB.json"
         },
         {
-            "key": "¶¯ÂşÖ±Á´",
-            "name": "??¶¯ÂşÖ±Á´",
+            "key": "åŠ¨æ¼«ç›´é“¾",
+            "name": "??åŠ¨æ¼«ç›´é“¾",
             "type": 3,
             "api": "csp_XPath",
             "searchable": 1,
@@ -809,8 +809,8 @@
             "ext": "https://yydsys.top/duo/json/%E5%8A%A8%E6%BC%AB%E7%9B%B4%E9%93%BE.json"
         },
         {
-            "key": "csp_biubiu_·ç³µ¶¯Âş",
-            "name": "??·ç³µ¶¯Âş",
+            "key": "csp_biubiu_é£è½¦åŠ¨æ¼«",
+            "name": "??é£è½¦åŠ¨æ¼«",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -819,8 +819,8 @@
             "ext": "https://yydsys.top/duo/json/%E9%A3%8E%E8%BD%A6%E5%8A%A8%E6%BC%AB.json"
         },
         {
-            "key": "csp_xpath___¶¯Âş°ÍÊ¿",
-            "name": "??¶¯Âş°ÍÊ¿",
+            "key": "csp_xpath___åŠ¨æ¼«å·´å£«",
+            "name": "??åŠ¨æ¼«å·´å£«",
             "type": 3,
             "api": "csp_XPath",
             "searchable": 1,
@@ -830,7 +830,7 @@
         },
         {
             "key": "py_qie",
-            "name": "??Æó¶ìÌåÓı",
+            "name": "??ä¼é¹…ä½“è‚²",
             "type": 3,
             "api": "py_qie",
             "searchable": 0,
@@ -839,8 +839,8 @@
             "ext": "https://yydsys.top/duo/json/qie.py"
         },
         {
-            "key": "csp_XPath_¶ìÖ±²¥",
-            "name": "?Æó¶ìÌåÓı",
+            "key": "csp_XPath_é¹…ç›´æ’­",
+            "name": "?ä¼é¹…ä½“è‚²",
             "type": 3,
             "api": "csp_XPath",
             "searchable": 0,
@@ -849,8 +849,8 @@
             "ext": "https://yydsys.top/duo/json/qie.json"
         },
         {
-            "key": "drpy_js_310Ö±²¥",
-            "name": "??310Ö±²¥",
+            "key": "drpy_js_310ç›´æ’­",
+            "name": "??310ç›´æ’­",
             "type": 3,
             "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
             "searchable": 1,
@@ -859,18 +859,18 @@
             "ext": "https://yydsys.top/duo/js/310.js"
         },
         {
-            "key": "dr_88¿´Çò",
-            "name": "??88¿´Çò",
+            "key": "dr_88çœ‹çƒ",
+            "name": "??88çœ‹çƒ",
             "type": 3,
             "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://yydsys.top/duo/js/88¿´Çò.js"
+            "ext": "https://yydsys.top/duo/js/88çœ‹çƒ.js"
         },
         {
-            "key": "drpy_js_JRSÖ±²¥",
-            "name": "?JRSÖ±²¥",
+            "key": "drpy_js_JRSç›´æ’­",
+            "name": "?JRSç›´æ’­",
             "type": 3,
             "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
             "searchable": 1,
@@ -879,18 +879,18 @@
             "ext": "https://yydsys.top/duo/js/jrslive.js"
         },
         {
-            "key": "drpy_js_JRKANÖ±²¥",
-            "name": "??JRKAN¿´Çò",
+            "key": "drpy_js_JRKANç›´æ’­",
+            "name": "??JRKANçœ‹çƒ",
             "type": 3,
             "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://yydsys.top/duo/js/jrs¿´Çò.js"
+            "ext": "https://yydsys.top/duo/js/jrsçœ‹çƒ.js"
         },
         {
-            "key": "dr_JRKANÖ±²¥",
-            "name": "??JRKÖ±²¥",
+            "key": "dr_JRKANç›´æ’­",
+            "name": "??JRKç›´æ’­",
             "type": 3,
             "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
             "searchable": 0,
@@ -899,58 +899,58 @@
             "ext": "https://yydsys.top/duo/js/JRKAN.js"
         },
         {
-            "key": "drpy_js_×¥·¹ÌåÓı",
-            "name": "?×¥·¹ÌåÓı",
+            "key": "drpy_js_æŠ“é¥­ä½“è‚²",
+            "name": "?æŠ“é¥­ä½“è‚²",
             "type": 3,
             "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://yydsys.top/duo/js/×¥·¹ÌåÓı.js"
+            "ext": "https://yydsys.top/duo/js/æŠ“é¥­ä½“è‚².js"
         },
         {
             "key": "py_dashan",
-            "name": "??¶à¶à´îÚ¨",
+            "name": "??å¤šå¤šæ­è®ª",
             "type": 3,
             "api": "py_dashan",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://yydsys.top/duo/Bili/´îÚ¨.py"
+            "ext": "https://yydsys.top/duo/Bili/æ­è®ª.py"
         },
         {
             "key": "py_dapei",
-            "name": "??¶à¶à´îÅä",
+            "name": "??å¤šå¤šæ­é…",
             "type": 3,
             "api": "py_dapei",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://yydsys.top/duo/Bili/´îÅä.py"
+            "ext": "https://yydsys.top/duo/Bili/æ­é….py"
         },
         {
-            "key": "js_BÕ¾¾«¼ò",
-            "name": "???BÕ¾¾«¼ò",
+            "key": "js_Bç«™ç²¾ç®€",
+            "name": "???Bç«™ç²¾ç®€",
             "type": 3,
             "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://yydsys.top/duo/js/BÕ¾¾«¼ò.js"
+            "ext": "https://yydsys.top/duo/js/Bç«™ç²¾ç®€.js"
         },
         {
             "key": "py_meishi",
-            "name": "???ÃÀÊ³ºÏ¼¯",
+            "name": "???ç¾é£Ÿåˆé›†",
             "type": 3,
             "api": "py_meishi",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://yydsys.top/duo/Bili/ÃÀÊ³ºÏ¼¯.py"
+            "ext": "https://yydsys.top/duo/Bili/ç¾é£Ÿåˆé›†.py"
         },
         {
             "key": "py_youer",
-            "name": "???Ó×¶ù½ÌÓı",
+            "name": "???å¹¼å„¿æ•™è‚²",
             "type": 3,
             "api": "py_youer",
             "searchable": 0,
@@ -960,7 +960,7 @@
         },
         {
             "key": "py_xiaoxue",
-            "name": "???Ğ¡Ñ§½ÌÓı",
+            "name": "???å°å­¦æ•™è‚²",
             "type": 3,
             "api": "py_xiaoxue",
             "searchable": 1,
@@ -970,7 +970,7 @@
         },
         {
             "key": "py_czxx",
-            "name": "???³õÖĞ½ÌÓı",
+            "name": "???åˆä¸­æ•™è‚²",
             "type": 3,
             "api": "py_czxx",
             "searchable": 0,
@@ -980,7 +980,7 @@
         },
         {
             "key": "py_gaozxx",
-            "name": "???¸ßÖĞ½ÌÓı",
+            "name": "???é«˜ä¸­æ•™è‚²",
             "type": 3,
             "api": "py_gaozxx",
             "searchable": 0,
@@ -990,7 +990,7 @@
         },
         {
             "key": "py_zyy",
-            "name": "???ÖĞÒ½Ò©Çø",
+            "name": "???ä¸­åŒ»è¯åŒº",
             "type": 3,
             "api": "py_zyy",
             "searchable": 0,
@@ -1000,7 +1000,7 @@
         },
         {
             "key": "py_xuqu1",
-            "name": "???Ï·ÇúºÏ¼¯",
+            "name": "???æˆæ›²åˆé›†",
             "type": 3,
             "api": "py_xuqu1",
             "searchable": 0,
@@ -1010,7 +1010,7 @@
         },
         {
             "key": "py_TYjs",
-            "name": "???ÌåÓı½¡Éí",
+            "name": "???ä½“è‚²å¥èº«",
             "type": 3,
             "api": "py_TYjs",
             "searchable": 0,
@@ -1020,7 +1020,7 @@
         },
         {
             "key": "py_xiangsh",
-            "name": "???ÏàÉùĞ¡Æ·",
+            "name": "???ç›¸å£°å°å“",
             "type": 3,
             "api": "py_xiangsh",
             "searchable": 0,
@@ -1030,7 +1030,7 @@
         },
         {
             "key": "py_FBqx",
-            "name": "???Çò¶ÓÇòĞÇ",
+            "name": "???çƒé˜Ÿçƒæ˜Ÿ",
             "type": 3,
             "api": "py_FBqx",
             "searchable": 0,
@@ -1040,7 +1040,7 @@
         },
         {
             "key": "py_Meinvw",
-            "name": "???ÃÀÅ®ÈÈÎè",
+            "name": "???ç¾å¥³çƒ­èˆ",
             "type": 3,
             "api": "py_Meinvw",
             "searchable": 0,
@@ -1050,7 +1050,7 @@
         },
         {
             "key": "py_yanchh",
-            "name": "???¸èÊÖºÏ¼¯",
+            "name": "???æ­Œæ‰‹åˆé›†",
             "type": 3,
             "api": "py_yanchh",
             "searchable": 0,
@@ -1060,7 +1060,7 @@
         },
         {
             "key": "py_Nvtuan",
-            "name": "???Å®ÍÅÈÈÎè",
+            "name": "???å¥³å›¢çƒ­èˆ",
             "type": 3,
             "api": "py_Nvtuan",
             "searchable": 0,
@@ -1070,7 +1070,7 @@
         },
         {
             "key": "py_MTV",
-            "name": "???¸èÇúMTV",
+            "name": "???æ­Œæ›²MTV",
             "type": 3,
             "api": "py_MTV",
             "searchable": 0,
@@ -1080,7 +1080,7 @@
         },
         {
             "key": "py_Yinl2",
-            "name": "???ÒôÀÖºÏ¼¯",
+            "name": "???éŸ³ä¹åˆé›†",
             "type": 3,
             "api": "py_Yinl2",
             "searchable": 0,
@@ -1089,18 +1089,18 @@
             "ext": "https://yydsys.top/duo/Bili/yinyue.py"
         },
         {
-            "key": "js_ßÙÁ¨Ö±²¥",
-            "name": "???BÕ¾Ö±²¥",
+            "key": "js_å“”å“©ç›´æ’­",
+            "name": "???Bç«™ç›´æ’­",
             "type": 3,
             "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://yydsys.top/duo/js/ßÙÁ¨Ö±²¥.js"
+            "ext": "https://yydsys.top/duo/js/å“”å“©ç›´æ’­.js"
         },
         {
             "key": "py_huya",
-            "name": "??»¢ÑÀ(PY)",
+            "name": "??è™ç‰™(PY)",
             "type": 3,
             "api": "py_huya",
             "searchable": 0,
@@ -1109,8 +1109,8 @@
             "ext": "https://yydsys.top/duo/json/pyhuya.py"
         },
         {
-            "key": "csp_XYQHiker_»¢ÑÀÖ±²¥",
-            "name": "??»¢ÑÀÖ±²¥",
+            "key": "csp_XYQHiker_è™ç‰™ç›´æ’­",
+            "name": "??è™ç‰™ç›´æ’­",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 0,
@@ -1120,7 +1120,7 @@
         },
         {
             "key": "py_douyu",
-            "name": "??¶·Óã(PY)",
+            "name": "??æ–—é±¼(PY)",
             "type": 3,
             "api": "py_douyu",
             "searchable": 0,
@@ -1129,8 +1129,8 @@
             "ext": "https://yydsys.top/duo/json/pydouyu.py"
         },
         {
-            "key": "csp_biubiu_¶·Óã",
-            "name": "??¶·Óã(XB)",
+            "key": "csp_biubiu_æ–—é±¼",
+            "name": "??æ–—é±¼(XB)",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 0,
@@ -1139,8 +1139,8 @@
             "ext": "https://yydsys.top/duo/json/%E6%96%97%E9%B1%BC.json"
         },
         {
-            "key": "ÍøÒ×CC",
-            "name": "??ÍøÒ×CC",
+            "key": "ç½‘æ˜“CC",
+            "name": "??ç½‘æ˜“CC",
             "type": 3,
             "api": "csp_XYQBiu",
             "searchable": 0,
@@ -1150,7 +1150,7 @@
         },
         {
             "key": "csp_xpath_yinfans",
-            "name": "??Òô·¶Ë¿4K",
+            "name": "??éŸ³èŒƒä¸4K",
             "type": 3,
             "api": "csp_XPath",
             "searchable": 1,
@@ -1159,8 +1159,8 @@
             "ext": "https://yydsys.top/duo/json/%E9%9F%B3%E8%8C%83%E4%B8%9D.json"
         },
         {
-            "key": "¿Ú´üÓ°Ôº",
-            "name": "??¿Ú´üÓ°Ôº",
+            "key": "å£è¢‹å½±é™¢",
+            "name": "??å£è¢‹å½±é™¢",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -1169,8 +1169,8 @@
             "ext": "https://yydsys.top/duo/json/%E5%8F%A3%E8%A2%8B%E5%BD%B1%E9%99%A2.json"
         },
         {
-            "key": "»¨Ã¨Ó°ÊÓ",
-            "name": "??»¨Ã¨Ó°ÊÓ",
+            "key": "èŠ±çŒ«å½±è§†",
+            "name": "??èŠ±çŒ«å½±è§†",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -1179,8 +1179,8 @@
             "ext": "https://yydsys.top/duo/json/%E8%8A%B1%E7%8C%AB%E5%BD%B1%E8%A7%86.json"
         },
         {
-            "key": "Áù¶ÈÓ°ÊÓ",
-            "name": "??Áù¶ÈÓ°ÊÓ",
+            "key": "å…­åº¦å½±è§†",
+            "name": "??å…­åº¦å½±è§†",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -1190,7 +1190,7 @@
         },
         {
             "key": "csp_biubiu_dadagui",
-            "name": "??´ï´ï¹ê",
+            "name": "??è¾¾è¾¾é¾Ÿ",
             "type": 3,
             "api": "csp_XPathFilter",
             "searchable": 1,
@@ -1199,8 +1199,8 @@
             "ext": "https://yydsys.top/duo/json/%E8%BE%BE%E8%BE%BE%E9%BE%9F.json"
         },
         {
-            "key": "csp_XBPQ_TVBÔÆ²¥",
-            "name": "??TVBÔÆ²¥",
+            "key": "csp_XBPQ_TVBäº‘æ’­",
+            "name": "??TVBäº‘æ’­",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -1209,8 +1209,8 @@
             "ext": "https://yydsys.top/duo/json/tvb%E4%BA%91%E6%92%AD.json"
         },
         {
-            "key": "AueteÓ°ÊÓ",
-            "name": "??AueteÓ°ÊÓ",
+            "key": "Aueteå½±è§†",
+            "name": "??Aueteå½±è§†",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -1219,8 +1219,8 @@
             "ext": "https://yydsys.top/duo/json/Auete%E5%BD%B1%E8%A7%86.json"
         },
         {
-            "key": "csp_XBPQ_½ğÑÛÓ°ÊÓ",
-            "name": "??½ğÑÛÓ°ÊÓ",
+            "key": "csp_XBPQ_é‡‘çœ¼å½±è§†",
+            "name": "??é‡‘çœ¼å½±è§†",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -1230,7 +1230,7 @@
         },
         {
             "key": "push_agent",
-            "name": "??ÍÆËÍ",
+            "name": "??æ¨é€",
             "type": 3,
             "api": "csp_Push",
             "searchable": 0,
@@ -1250,41 +1250,41 @@
     ],
     "parses": [
         {
-            "name": "½âÎö¾ÛºÏ",
+            "name": "è§£æèšåˆ",
             "type": 3,
             "url": "Demo"
         },
         {
-            "name": "Web¾ÛºÏ",
+            "name": "Webèšåˆ",
             "type": 3,
             "url": "Web"
         },
         {
-            "name": "×Ô¶¯½âÎö",
+            "name": "è‡ªåŠ¨è§£æ",
             "type": 1,
             "url": "http://bpq.xdv.icu/analysis.php?v=",
             "ext": {
                 "flag": [
                     "qq",
-                    "ÌÚÑ¶",
-                    "Æó¶ì",
+                    "è…¾è®¯",
+                    "ä¼é¹…",
                     "IQiYi",
                     "qiyi",
-                    "°®ÆæÒÕ",
-                    "ÆæÒÕ",
+                    "çˆ±å¥‡è‰º",
+                    "å¥‡è‰º",
                     "youku",
                     "YouKu",
-                    "ÓÅ¿á",
+                    "ä¼˜é…·",
                     "sohu",
                     "SoHu",
-                    "ËÑºü",
+                    "æœç‹",
                     "letv",
                     "LeShi",
-                    "ÀÖÊÓ",
+                    "ä¹è§†",
                     "imgo",
                     "mgtv",
                     "MangGuo",
-                    "Ã¢¹û",
+                    "èŠ’æœ",
                     "SLYS4k",
                     "BYGA",
                     "luanzi",
@@ -1293,149 +1293,149 @@
                     "bilibili",
                     "QEYSS",
                     "xigua",
-                    "Î÷¹ÏÊÓÆµ",
-                    "ÌÚÑ¶ÊÓÆµ",
-                    "ÆæÒÕÊÓÆµ",
-                    "ÓÅ¿áÊÓÆµ",
-                    "Ã¢¹ûÊÓÆµ",
-                    "ÀÖÊÓÊÓÆµ"
+                    "è¥¿ç“œè§†é¢‘",
+                    "è…¾è®¯è§†é¢‘",
+                    "å¥‡è‰ºè§†é¢‘",
+                    "ä¼˜é…·è§†é¢‘",
+                    "èŠ’æœè§†é¢‘",
+                    "ä¹è§†è§†é¢‘"
                 ]
             }
         },
         {
-            "name": "ÊÖ¶¯½âÎö",
+            "name": "æ‰‹åŠ¨è§£æ",
             "type": 0,
             "url": "https://jx.777jiexi.com/player/?url="
         },
         {
-            "name": "1ºÅÏß",
+            "name": "1å·çº¿",
             "type": 1,
             "url": "http://27.124.4.42:4567/jhjson/ceshi.php?url="
         },
         {
-            "name": "2ºÅÏß",
+            "name": "2å·çº¿",
             "type": 0,
             "url": "https://jx.xmflv.com/?url="
         },
         {
-            "name": "3ºÅÏß",
+            "name": "3å·çº¿",
             "type": 0,
             "url": "https://chaxun.truechat365.com/?url=",
             "ext": {
                 "flag": [
                     "qq",
-                    "ÌÚÑ¶",
+                    "è…¾è®¯",
                     "qiyi",
                     "iqiyi",
-                    "°®ÆæÒÕ",
-                    "ÆæÒÕ",
+                    "çˆ±å¥‡è‰º",
+                    "å¥‡è‰º",
                     "youku",
-                    "ÓÅ¿á",
+                    "ä¼˜é…·",
                     "mgtv",
-                    "Ã¢¹û",
+                    "èŠ’æœ",
                     "letv",
-                    "ÀÖÊÓ",
+                    "ä¹è§†",
                     "pptv",
                     "PPTV",
                     "sohu",
                     "bilibili",
-                    "ßÙÁ¨ßÙÁ¨",
-                    "ßÙÁ¨"
+                    "å“”å“©å“”å“©",
+                    "å“”å“©"
                 ]
             }
         },
         {
-            "name": "4ºÅÏß",
+            "name": "4å·çº¿",
             "type": 0,
             "url": "https://jx.bozrc.com:4433/player/?url="
         },
         {
-            "name": "5ºÅÏß",
+            "name": "5å·çº¿",
             "type": 0,
             "url": "https://jx.parwix.com:4433/player/?url=",
             "ext": {
                 "flag": [
                     "qq",
-                    "ÌÚÑ¶",
+                    "è…¾è®¯",
                     "qiyi",
                     "iqiyi",
-                    "°®ÆæÒÕ",
-                    "ÆæÒÕ",
+                    "çˆ±å¥‡è‰º",
+                    "å¥‡è‰º",
                     "youku",
-                    "ÓÅ¿á",
+                    "ä¼˜é…·",
                     "mgtv",
-                    "Ã¢¹û",
+                    "èŠ’æœ",
                     "letv",
-                    "ÀÖÊÓ",
+                    "ä¹è§†",
                     "pptv",
                     "PPTV",
                     "sohu",
                     "bilibili",
-                    "ßÙÁ¨ßÙÁ¨",
-                    "ßÙÁ¨"
+                    "å“”å“©å“”å“©",
+                    "å“”å“©"
                 ]
             }
         },
         {
-            "name": "6ºÅÏß",
+            "name": "6å·çº¿",
             "type": 0,
             "url": "https://jx.parwix.com:4433/player/analysis.php?v=",
             "ext": {
                 "flag": [
                     "qq",
-                    "ÌÚÑ¶",
+                    "è…¾è®¯",
                     "qiyi",
                     "iqiyi",
-                    "°®ÆæÒÕ",
-                    "ÆæÒÕ",
+                    "çˆ±å¥‡è‰º",
+                    "å¥‡è‰º",
                     "youku",
-                    "ÓÅ¿á",
+                    "ä¼˜é…·",
                     "mgtv",
-                    "Ã¢¹û",
+                    "èŠ’æœ",
                     "letv",
-                    "ÀÖÊÓ",
+                    "ä¹è§†",
                     "pptv",
                     "PPTV",
                     "sohu",
                     "bilibili",
-                    "ßÙÁ¨ßÙÁ¨",
-                    "ßÙÁ¨"
+                    "å“”å“©å“”å“©",
+                    "å“”å“©"
                 ]
             }
         },
         {
-            "name": "7ºÅÏß",
+            "name": "7å·çº¿",
             "type": 0,
             "url": "https://h5.freejson.xyz/player/?url="
         },
         {
-            "name": "8ºÅÏß",
+            "name": "8å·çº¿",
             "url": "https://www.8090g.cn/?url="
         },
         {
-            "name": "9ºÅÏß",
+            "name": "9å·çº¿",
             "type": 1,
             "url": "http://json.youguo520.top/fufeng/?url=",
             "ext": {
                 "flag": [
                     "qq",
-                    "ÌÚÑ¶",
+                    "è…¾è®¯",
                     "qiyi",
                     "iqiyi",
-                    "°®ÆæÒÕ",
-                    "ÆæÒÕ",
+                    "çˆ±å¥‡è‰º",
+                    "å¥‡è‰º",
                     "youku",
-                    "ÓÅ¿á",
+                    "ä¼˜é…·",
                     "mgtv",
-                    "Ã¢¹û",
+                    "èŠ’æœ",
                     "letv",
-                    "ÀÖÊÓ",
+                    "ä¹è§†",
                     "pptv",
                     "PPTV",
                     "sohu",
                     "bilibili",
-                    "ßÙÁ¨ßÙÁ¨",
-                    "ßÙÁ¨"
+                    "å“”å“©å“”å“©",
+                    "å“”å“©"
                 ],
                 "header": {
                     "User-Agent": "Dart/2.14(dart:io)"
@@ -1443,162 +1443,162 @@
             }
         },
         {
-            "name": "10ºÅÏß",
+            "name": "10å·çº¿",
             "type": 1,
             "url": "https://jx.4kdv.com/?url=",
             "ext": {
                 "flag": [
                     "qq",
-                    "ÌÚÑ¶",
+                    "è…¾è®¯",
                     "qiyi",
                     "iqiyi",
-                    "°®ÆæÒÕ",
-                    "ÆæÒÕ",
+                    "çˆ±å¥‡è‰º",
+                    "å¥‡è‰º",
                     "youku",
-                    "ÓÅ¿á",
+                    "ä¼˜é…·",
                     "mgtv",
-                    "Ã¢¹û",
+                    "èŠ’æœ",
                     "letv",
-                    "ÀÖÊÓ",
+                    "ä¹è§†",
                     "pptv",
                     "PPTV",
                     "sohu",
                     "bilibili",
-                    "ßÙÁ¨ßÙÁ¨",
-                    "ßÙÁ¨"
+                    "å“”å“©å“”å“©",
+                    "å“”å“©"
                 ]
             }
         },
         {
-            "name": "11ºÅÏß",
+            "name": "11å·çº¿",
             "type": 0,
             "url": "https://jx.m3u8.tv/jiexi/?url=",
             "ext": {
                 "flag": [
                     "qq",
-                    "ÌÚÑ¶",
+                    "è…¾è®¯",
                     "qiyi",
                     "iqiyi",
-                    "°®ÆæÒÕ",
-                    "ÆæÒÕ",
+                    "çˆ±å¥‡è‰º",
+                    "å¥‡è‰º",
                     "youku",
-                    "ÓÅ¿á",
+                    "ä¼˜é…·",
                     "mgtv",
-                    "Ã¢¹û",
+                    "èŠ’æœ",
                     "letv",
-                    "ÀÖÊÓ",
+                    "ä¹è§†",
                     "pptv",
                     "PPTV",
                     "sohu",
                     "bilibili",
-                    "ßÙÁ¨ßÙÁ¨",
-                    "ßÙÁ¨"
+                    "å“”å“©å“”å“©",
+                    "å“”å“©"
                 ]
             }
         },
         {
-            "name": "12ºÅÏß",
+            "name": "12å·çº¿",
             "type": 0,
             "url": "https://www.ckmov.com/?url=",
             "ext": {
                 "flag": [
                     "qq",
-                    "ÌÚÑ¶",
+                    "è…¾è®¯",
                     "qiyi",
                     "iqiyi",
-                    "°®ÆæÒÕ",
-                    "ÆæÒÕ",
+                    "çˆ±å¥‡è‰º",
+                    "å¥‡è‰º",
                     "youku",
-                    "ÓÅ¿á",
+                    "ä¼˜é…·",
                     "mgtv",
-                    "Ã¢¹û",
+                    "èŠ’æœ",
                     "letv",
-                    "ÀÖÊÓ",
+                    "ä¹è§†",
                     "pptv",
                     "PPTV",
                     "sohu",
                     "bilibili",
-                    "ßÙÁ¨ßÙÁ¨",
-                    "ßÙÁ¨"
+                    "å“”å“©å“”å“©",
+                    "å“”å“©"
                 ]
             }
         },
         {
-            "name": "13ºÅÏß",
+            "name": "13å·çº¿",
             "type": 1,
             "url": "https://api.jiexi.la/?url=",
             "ext": {
                 "flag": [
                     "qq",
-                    "ÌÚÑ¶",
+                    "è…¾è®¯",
                     "qiyi",
                     "iqiyi",
-                    "°®ÆæÒÕ",
-                    "ÆæÒÕ",
+                    "çˆ±å¥‡è‰º",
+                    "å¥‡è‰º",
                     "youku",
-                    "ÓÅ¿á",
+                    "ä¼˜é…·",
                     "mgtv",
-                    "Ã¢¹û",
+                    "èŠ’æœ",
                     "letv",
-                    "ÀÖÊÓ",
+                    "ä¹è§†",
                     "pptv",
                     "PPTV",
                     "sohu",
                     "bilibili",
-                    "ßÙÁ¨ßÙÁ¨",
-                    "ßÙÁ¨"
+                    "å“”å“©å“”å“©",
+                    "å“”å“©"
                 ]
             }
         },
         {
-            "name": "14ºÅÏß",
+            "name": "14å·çº¿",
             "type": 0,
             "url": "https://www.nxflv.com/?url="
         },
         {
-            "name": "15ºÅÏß",
+            "name": "15å·çº¿",
             "type": 0,
             "url": "https://jx.jsonplayer.com/player/?url="
         },
         {
-            "name": "16ºÅÏß",
+            "name": "16å·çº¿",
             "type": 0,
             "url": "https://www.yemu.xyz/?url=",
             "ext": {
                 "flag": [
                     "qq",
-                    "ÌÚÑ¶",
+                    "è…¾è®¯",
                     "qiyi",
                     "iqiyi",
-                    "°®ÆæÒÕ",
-                    "ÆæÒÕ",
+                    "çˆ±å¥‡è‰º",
+                    "å¥‡è‰º",
                     "youku",
-                    "ÓÅ¿á",
+                    "ä¼˜é…·",
                     "mgtv",
-                    "Ã¢¹û",
+                    "èŠ’æœ",
                     "letv",
-                    "ÀÖÊÓ",
+                    "ä¹è§†",
                     "pptv",
                     "PPTV",
                     "sohu",
                     "bilibili",
-                    "ßÙÁ¨ßÙÁ¨",
-                    "ßÙÁ¨"
+                    "å“”å“©å“”å“©",
+                    "å“”å“©"
                 ]
             }
         },
         {
-            "name": "17ºÅÏß",
+            "name": "17å·çº¿",
             "type": 0,
             "url": "http://jiexi.parses.repl.co/api.php?url="
         },
         {
-            "name": "18ºÅÏß",
+            "name": "18å·çº¿",
             "type": 0,
             "url": "https://jx.ccabc.cc/byg/?url="
         },
         {
-            "name": "19ºÅÏß",
+            "name": "19å·çº¿",
             "type": 0,
             "url": "https://jx.zhanlangbu.com/?url=",
             "ext": {
@@ -1607,27 +1607,27 @@
                 },
                 "flag": [
                     "qq",
-                    "ÌÚÑ¶",
+                    "è…¾è®¯",
                     "qiyi",
-                    "°®ÆæÒÕ",
-                    "ÆæÒÕ",
+                    "çˆ±å¥‡è‰º",
+                    "å¥‡è‰º",
                     "youku",
-                    "ÓÅ¿á",
+                    "ä¼˜é…·",
                     "mgtv",
-                    "Ã¢¹û",
+                    "èŠ’æœ",
                     "letv",
-                    "ÀÖÊÓ",
+                    "ä¹è§†",
                     "pptv",
                     "PPTV",
                     "sohu",
                     "bilibili",
-                    "ßÙÁ¨ßÙÁ¨",
-                    "ßÙÁ¨"
+                    "å“”å“©å“”å“©",
+                    "å“”å“©"
                 ]
             }
         },
         {
-            "name": "20ºÅÏß",
+            "name": "20å·çº¿",
             "type": 1,
             "url": "http://lanlan.ckflv.cn/?url=",
             "ext": {
@@ -1646,48 +1646,48 @@
             }
         },
         {
-            "name": "21ºÅÏß",
+            "name": "21å·çº¿",
             "type": 0,
             "url": "https://okjx.cc/?url="
         },
         {
-            "name": "22ºÅÏß",
+            "name": "22å·çº¿",
             "type": 0,
             "url": "http://jx.ivito.cn/?url="
         },
         {
-            "name": "23ºÅÏß",
+            "name": "23å·çº¿",
             "type": 0,
             "url": "https://dm.xbqgx.com/?url="
         },
         {
-            "name": "24ºÅÏß",
+            "name": "24å·çº¿",
             "type": 0,
             "url": "https://vip.bljiex.com/?v="
         },
         {
-            "name": "25ºÅÏß",
+            "name": "25å·çº¿",
             "type": 0,
             "url": "http://pandown.pro/app/ysmjx.php?url=",
             "ext": {
                 "flag": [
                     "qq",
-                    "ÌÚÑ¶",
+                    "è…¾è®¯",
                     "qiyi",
-                    "°®ÆæÒÕ",
-                    "ÆæÒÕ",
+                    "çˆ±å¥‡è‰º",
+                    "å¥‡è‰º",
                     "youku",
-                    "ÓÅ¿á",
+                    "ä¼˜é…·",
                     "mgtv",
-                    "Ã¢¹û",
+                    "èŠ’æœ",
                     "letv",
-                    "ÀÖÊÓ",
+                    "ä¹è§†",
                     "pptv",
                     "PPTV",
                     "sohu",
                     "bilibili",
-                    "ßÙÁ¨ßÙÁ¨",
-                    "ßÙÁ¨"
+                    "å“”å“©å“”å“©",
+                    "å“”å“©"
                 ],
                 "header": {
                     "User-Agent": "okhttp/4.1.0"
@@ -1728,23 +1728,23 @@
         "xigua",
         "m1905",
         "funshion",
-        "ÓÅ¿á",
-        "Ã¢¹û",
-        "ÌÚÑ¶",
-        "°®ÆæÒÕ",
-        "ÆæÒÕ",
-        "ßÙÁ¨ßÙÁ¨",
-        "ßÙÁ¨",
-        "Î÷¹ÏÊÓÆµ",
-        "ÌÚÑ¶ÊÓÆµ",
-        "ÆæÒÕÊÓÆµ",
-        "ÓÅ¿áÊÓÆµ",
-        "Ã¢¹ûÊÓÆµ",
-        "ÀÖÊÓÊÓÆµ"
+        "ä¼˜é…·",
+        "èŠ’æœ",
+        "è…¾è®¯",
+        "çˆ±å¥‡è‰º",
+        "å¥‡è‰º",
+        "å“”å“©å“”å“©",
+        "å“”å“©",
+        "è¥¿ç“œè§†é¢‘",
+        "è…¾è®¯è§†é¢‘",
+        "å¥‡è‰ºè§†é¢‘",
+        "ä¼˜é…·è§†é¢‘",
+        "èŠ’æœè§†é¢‘",
+        "ä¹è§†è§†é¢‘"
     ],
     "ijk": [
         {
-            "group": "Èí½âÂë",
+            "group": "è½¯è§£ç ",
             "options": [
                 {
                     "category": 4,
@@ -1829,7 +1829,7 @@
             ]
         },
         {
-            "group": "Ó²½âÂë",
+            "group": "ç¡¬è§£ç ",
             "options": [
                 {
                     "category": 4,
@@ -1978,6 +1978,6 @@
         "cms.qdwght.com"
     ],
     "wallpaper": "https://yydsys.top/bg.php",
-    "warningText": "¶à¶à¼ÒÍ¥½Ó¿Ú£¬Ãâ·ÑÎ¬»¤¸üĞÂ¡£",
-    "spider": "https://yydsys.top/duo/jar/xm.jar;md5;4F2C8EB3B1E14D5449DF4B05E5D89A32"
+    "warningText": "å¤šå¤šå®¶åº­æ¥å£ï¼Œå…è´¹ç»´æŠ¤æ›´æ–°ã€‚",
+    "spider": "https://luxu2006.github.io/lx/xm.jar;md5;4F2C8EB3B1E14D5449DF4B05E5D89A32"
 }
